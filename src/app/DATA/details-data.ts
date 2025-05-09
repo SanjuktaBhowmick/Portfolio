@@ -21,7 +21,7 @@ export const DETAILS: Details = {
 
   //* Description Paragraph-1
   description_paragraph_1:
-    'I am a research associate professor at the CSE department at UNT. I love all things graphs.',
+    'I am an associate professor at the CSE department at UNT. I love all things graphs.',
 
   //* Description Paragraph-2
   description_paragraph_2:
