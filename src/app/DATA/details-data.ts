@@ -13,7 +13,7 @@ export const DETAILS: Details = {
   work_place_link: 'https://computerscience.engineering.unt.edu/',
 
   //* GitHub link
-  github_link: 'https://github.com/SanjuktaBhowmick/ESSENS',
+  github_link: 'https://github.com/SanjuktaBhowmick',
 
   //* Google Scholar link
   google_scholar_link:
